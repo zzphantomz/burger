@@ -1,0 +1,2 @@
+export const TOGGLE_ORDER = "TOGGLE_ORDER";
+export const SUCCESS_ORDER = "SUCCESS_ORDER";
